@@ -1,6 +1,6 @@
 ## À propos de moi
 
-Bonjour, je m’appelle Sarah et je débute une nouvelle aventure professionnelle : devenir Data Analyst.
+👋🏼 Bonjour, je m’appelle Sarah et je débute une nouvelle aventure professionnelle : devenir Data Analyst.
 
 Actuellement en reconversion et en formation en Data Analysis chez Jedha, je développe progressivement mes compétences à travers des projets concrets mêlant analyse de données, visualisation et réflexion business.
 Mon objectif est d’utiliser la technique pour mettre en lumière des enjeux métier concrets et faciliter la prise de décision.
