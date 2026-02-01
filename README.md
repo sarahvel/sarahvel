@@ -20,7 +20,7 @@ L’apprentissage est constant et fait partie intégrante de cette démarche.
 Je suis toujours ouverte aux échanges, retours et conseils constructifs.
 
 
-## Table des Matières
+## Projets
 
 [Projet 1 - Aéroport Paris CDG : Optimisation des flux et retards ✈️](https://github.com/sarahvel/CDG-Airport-Analysis)
 
