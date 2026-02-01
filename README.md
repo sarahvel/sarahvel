@@ -22,7 +22,7 @@ Je suis toujours ouverte aux échanges, retours et conseils constructifs.
 
 ## Projets
 
-[Projet 1 - Aéroport Paris CDG : Optimisation des flux et retards ✈️](https://github.com/sarahvel/CDG-Airport-Analysis)
+[Projet 1 - Aéroport Paris CDG : optimisation des flux et retards ✈️](https://github.com/sarahvel/CDG-Airport-Analysis)
 
 [Projet 2 -  Superstore : analyse de la rentabilité commerciale 🛒](https://github.com/sarahvel/Superstore-Analysis)
 
