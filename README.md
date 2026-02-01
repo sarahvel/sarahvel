@@ -17,7 +17,7 @@ Curieuse et motivée, j’aime :
 Ce portfolio a pour objectif de documenter ma progression, partager mes projets et illustrer mon évolution dans le domaine de l’analyse de données.
 L’apprentissage est constant et fait partie intégrante de cette démarche.
 
-Je suis toujours ouverte aux échanges, retours et conseils constructifs. /n/n
+Je suis toujours ouverte aux échanges, retours et conseils constructifs.
 
 
 ## Projets
