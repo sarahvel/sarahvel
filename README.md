@@ -13,7 +13,8 @@ Curieuse et motivée, j’aime :
 - relever des défis,
 - transformer des données brutes en insights utiles.
 
-Ce portfolio a pour objectif de présenter les projets réalisés au cours de ma formation ainsi que mes travaux personnels. Il reflète mon approche de l'analyse de données, mes compétences techniques et mon intérêt pour les problématiques métier. L’apprentissage est constant et fait partie intégrante de cette démarche.
+Ce portfolio a pour objectif de présenter les projets réalisés au cours de ma formation ainsi que mes travaux personnels. Il reflète mon approche de l'analyse de données, mes compétences techniques et mon intérêt pour les problématiques métier. 
+L’apprentissage est constant et fait partie intégrante de cette démarche.
 
 Je suis toujours ouverte aux échanges, retours et conseils constructifs.
 
