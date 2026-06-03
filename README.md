@@ -2,10 +2,9 @@
 
 👋🏼 Bonjour et bienvenue dans mon portfolio de projets data.
 
-Je m’appelle Sarah et je débute une nouvelle aventure professionnelle : devenir Data Analyst.
+Je m’appelle Sarah et je viens de finaliser ma formation en Data Analysis chez Jedha.
 
-Actuellement en reconversion et en formation en Data Analysis chez Jedha, je développe progressivement mes compétences à travers des projets concrets mêlant analyse de données, visualisation et réflexion business.
-Mon objectif est d’utiliser la technique pour mettre en lumière des enjeux métier concrets et faciliter la prise de décision.
+À travers différents projets mêlant analyse de données, visualisation et réflexion business, je développe progressivement mes compétences afin d'apporter des réponses concrètes à des problématiques métier grâce à l'analyse des données.
 
 Curieuse et motivée, j’aime :
 
@@ -14,8 +13,7 @@ Curieuse et motivée, j’aime :
 - relever des défis,
 - transformer des données brutes en insights utiles.
 
-Ce portfolio a pour objectif de documenter ma progression, partager mes projets et illustrer mon évolution dans le domaine de l’analyse de données.
-L’apprentissage est constant et fait partie intégrante de cette démarche.
+Ce portfolio a pour objectif de présenter les projets réalisés au cours de ma formation ainsi que mes travaux personnels. Il reflète mon approche de l'analyse de données, mes compétences techniques et mon intérêt pour les problématiques métier. L’apprentissage est constant et fait partie intégrante de cette démarche.
 
 Je suis toujours ouverte aux échanges, retours et conseils constructifs.
 
