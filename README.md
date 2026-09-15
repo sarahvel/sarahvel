@@ -2,7 +2,7 @@
 
 👋🏼 Bonjour et bienvenue dans mon portfolio de projets data.
 
-Je m’appelle Sarah et je viens de finaliser ma formation en Data Analysis chez Jedha.
+Je m’appelle Sarah et je poursuis une formation en Data Analyse chez DataSuits, école spécialisée dans le domaine de la Data, en partenariat avec l'université Paris 1 Panthéon Sorbonne.
 
 À travers différents projets mêlant analyse de données, visualisation et réflexion business, je développe progressivement mes compétences afin d'apporter des réponses concrètes à des problématiques métier grâce à l'analyse des données.
 
